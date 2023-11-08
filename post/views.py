@@ -1,3 +1,5 @@
+# user:blue  password:blue1234      user:user   password:user0987
+
 from django.shortcuts import render
 from rest_framework import permissions
 from .permissions import IsAuthorOrReadOnly # new
